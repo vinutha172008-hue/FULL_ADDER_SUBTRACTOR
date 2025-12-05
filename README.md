@@ -77,7 +77,8 @@ endmodule
 
 **Output Timing Waveform**
 <img width="1920" height="1080" alt="Screenshot 2025-12-05 205111" src="https://github.com/user-attachments/assets/1d40125e-c3a3-426e-9ecf-5a9b016e1bf8" />
-<img width="1920" height="1080" alt="Screenshot 2025-12-05 205111" src="https://github.com/user-attachments/assets/9003dd65-3dc8-4bd3-bce2-b49838ae40ac" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-05 205542" src="https://github.com/user-attachments/assets/0d20ee8d-3459-472a-89ae-0c4e0e41d1ee" />
+
 
 **Result:**
 
